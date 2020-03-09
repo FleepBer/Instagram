@@ -43,8 +43,8 @@ Neste desafio você vai praticar os seus conhecimentos em:
 
 ## Screenshots
 ### Versão Mobile:
-![](../screenshoots/mobile.png)
+![](https://github.com/FleepBer/instagram/blob/master/screenshoots/desktop.png)
 
 ### Versão Desktop:
-![](../screenshoots/desktop.png)
+![](https://github.com/FleepBer/instagram/blob/master/screenshoots/mobile.png)
 

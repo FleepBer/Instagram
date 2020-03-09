@@ -41,10 +41,10 @@ Neste desafio você vai praticar os seus conhecimentos em:
 * 📜 [Guia HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
 * 📜 [Guia CSS3](https://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-css-w3cbr.pdf)
 
-## Screenshots de Referência
+## Screenshots
 ### Versão Mobile:
-![](../screenshots/screenshot-aula-02-mobile.png)
+![](../screenshoots/mobile.png)
 
 ### Versão Desktop:
-![](../screenshots/screenshot-aula-02-desktop.png)
+![](../screenshoots/desktop.png)
 
